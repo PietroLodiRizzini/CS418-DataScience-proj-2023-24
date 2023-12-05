@@ -8,3 +8,4 @@ We have added each of our ipnyb files to this repo.
 - Sanjana Srabanti's crime analysis file is Crime_data_analysis_Sanjana_Srabanti.ipynb. Some other analysis is in the folder named "Chicago_Crime_Analysis_Sanjana_Srabanti".
 - Vidyut Rawal's crime analysis file is Vidyut_Rawal.ipynb.
 - Prashant Gupta's crime analysis file is Prashant_Gupta.ipynb.
+- Pietro Lodi Rizzini's crime analysis file is cs418_PietroLodiRizzini.ipynb
