@@ -9,3 +9,4 @@ We have added each of our ipnyb files to this repo.
 - Vidyut Rawal's crime analysis file is Vidyut_Rawal.ipynb.
 - Prashant Gupta's crime analysis file is Prashant_Gupta.ipynb.
 - Pietro Lodi Rizzini's crime analysis file is cs418_PietroLodiRizzini.ipynb
+- Aashik Mathew Prosper's crime analysis is CrimeAnalysis_AashikMathewProsper.ipynb
